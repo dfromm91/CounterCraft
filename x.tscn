@@ -1,0 +1,9 @@
+[gd_scene load_steps=2 format=3 uid="uid://bl57dhs777iwk"]
+
+[ext_resource type="Texture2D" uid="uid://b8psn1v04du46" path="res://transparent-red-x-red-crossed-line-with-stop-means-danger65a909ede54837.2243189717055769419392.png" id="1_dkeb1"]
+
+[node name="Node2D" type="Sprite2D"]
+
+[node name="Transparent-red-x-red-crossed-line-with-stop-means-danger65a909Ede54837_2243189717055769419392" type="Sprite2D" parent="."]
+scale = Vector2(0.0163574, 0.0114746)
+texture = ExtResource("1_dkeb1")

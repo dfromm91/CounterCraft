@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://csh6kj6bgowbx"]
+
+[ext_resource type="Texture2D" uid="uid://b3nnuua8usujo" path="res://GrandStaffExample1.webp" id="1_pj4sm"]
+
+[node name="staff" type="Sprite2D"]
+texture = ExtResource("1_pj4sm")

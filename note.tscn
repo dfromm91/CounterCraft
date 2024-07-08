@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://cronq8ensjlsi"]
+
+[ext_resource type="Texture2D" uid="uid://chyfsu2ylt2lb" path="res://NicePng_sixteenth-note-png_4247534.png" id="1_bqhdt"]
+
+[node name="Note" type="Sprite2D"]
+position = Vector2(-1.90735e-06, 0)
+scale = Vector2(0.0104612, 0.0120301)
+texture = ExtResource("1_bqhdt")
